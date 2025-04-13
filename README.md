@@ -1,2 +1,7 @@
 # Aillerco
-Aillerco: The Core of All Things Ailler.
+
+**Aillerco 是 Ailler 的核心引擎。**
+
+它是为开发者设计的底层框架，负责智能体的运行、插件加载、通信调度与生命周期管理。
+
+> 提供灵活的插件机制，由你定义智能体的每一项能力。
